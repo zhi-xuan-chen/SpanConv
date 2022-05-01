@@ -2,6 +2,8 @@
 
 **Homepage:**  
 
+https://zhi-xuan-chen.github.io/
+
 https://liangjiandeng.github.io/
 
 https://chengjin.netlify.app/ 
