@@ -89,12 +89,25 @@ YourDataset.h5
 - 12_reduced_wv2_512x512
 
   ```
-  
+  |--lms: interpolated multispectral images in .h5 format, basically have the size of N*C*H*W 
+  |--pan: original panchromatic images in .h5 format, basically have the size of N*C*H*W 
+  |--gt: simulated ground truth images in .h5 format, basically have the size of N*C*H*W  
   ```
 
 - 130_reduced_wv3_128x128
 
+  ```
+  |--lms: interpolated multispectral images in .h5 format, basically have the size of N*C*H*W 
+  |--pan: original panchromatic images in .h5 format, basically have the size of N*C*H*W 
+  |--gt: simulated ground truth images in .h5 format, basically have the size of N*C*H*W  
+  ```
+
 - 64_full_wv3_256x256
+
+  ```
+  |--lms: interpolated multispectral images in .h5 format, basically have the size of N*C*H*W 
+  |--pan: original panchromatic images in .h5 format, basically have the size of N*C*H*W 
+  ```
 
 ## Training instructions
 
