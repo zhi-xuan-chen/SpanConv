@@ -1,6 +1,9 @@
 # SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening
 
-**Homepage:**  https://liangjiandeng.github.io/, ![img](file:///C:\Users\86152\AppData\Roaming\Tencent\QQTempSys\`7_{~]GF$3{MOQ4V_}PH]YC.png)https://chengjin.netlify.app/ and https://tianjingzhang.github.io/
+**Homepage:**  
+https://liangjiandeng.github.io/
+https://chengjin.netlify.app/
+https://tianjingzhang.github.io/
 
 - Code for paper: " SpanConv: A New Convolution via Spanning Kernel Space for Lightweight."
 
