@@ -10,7 +10,7 @@ https://chengjin.netlify.app/
 
 https://tianjingzhang.github.io/
 
-- Code for paper: " SpanConv: A New Convolution via Spanning Kernel Space for Lightweight."
+- Code for paper: " SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening."
 
 This is the description of how to run our training code and testing code. 
 
