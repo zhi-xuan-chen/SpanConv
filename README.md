@@ -2,13 +2,11 @@
 
 **Homepage:**  
 
-https://zhi-xuan-chen.github.io/
 
 https://liangjiandeng.github.io/
 
-https://chengjin.netlify.app/ 
+https://zhi-xuan-chen.github.io/
 
-https://tianjingzhang.github.io/
 
 - Code for paper: " SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening."
 
