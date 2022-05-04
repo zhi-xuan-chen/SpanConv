@@ -16,8 +16,8 @@ https://zhi-xuan-chen.github.io/
 ```bib
 @article{SpanConv,
 author = {Zhi-Xuan Chen, Cheng Jin, Tian-Jing Zhang, Xiao Wu, and Liang-Jian Deng},
-title = {SpanConv: A New Convolution via Spanning Kernel Space for Lightweight},
-conference = {International Joint Conferences on Artificial Intelligence},
+title = {SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening},
+conference = {IJCAI},
 volume = {},
 pages = {},
 year = {2022},
